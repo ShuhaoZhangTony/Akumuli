@@ -39,3 +39,4 @@ CMakeCache.txt
 /unittests/test_streams
 /unittests/test_tcp_server
 /unittests/test_util
+cmake-build-debug
